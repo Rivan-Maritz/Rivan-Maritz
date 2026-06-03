@@ -16,11 +16,10 @@
 
 ## About Me
 
-I'm a passionate Computing student with hands-on experience building web applications and console-based systems. I enjoy solving real-world problems through clean code and thoughtful design.
+Software Engineer Student || Passionate about AI models and designing them from scratch.
 
 - 🎓 Currently studying towards a **Bachelor of Computing** at Belgium Campus ITversity
 - 💻 Building projects with **C#**, **JavaScript**, **HTML/CSS**
-- 🌱 Always learning — currently exploring **full-stack web development**
 - 🤝 Open to **internships**, **junior developer roles**, and **collaborations**
 - 📍 Based in **Pretoria, Gauteng, South Africa**
 
@@ -74,13 +73,19 @@ I'm a passionate Computing student with hands-on experience building web applica
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 People I've Collaborated With
+
+These are classmates and developers I've worked alongside on academic and personal projects.
 
 <div align="center">
 
-![Rivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rivan-Maritz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivan-Maritz&layout=compact&theme=tokyonight&hide_border=true)
+| Collaborator | GitHub |
+|---|---|
+| **👤Nicholas Armin Vronka** | [![GitHub](https://img.shields.io/badge/-Nicholas-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nicholas005) |
+| **👤Jared Nicolas Swanepoel** | [![GitHub](https://img.shields.io/badge/-Jared-181717?style=flat&logo=github&logoColor=white)](https://github.com/mnrjared) |
+| **👤Jandre Neethling** | [![GitHub](https://img.shields.io/badge/-Jandre-181717?style=flat&logo=github&logoColor=white)](https://github.com/JCNEE) |
+| **👤Henri Claasen** | [![GitHub](https://img.shields.io/badge/-Henri-181717?style=flat&logo=github&logoColor=white)](https://github.com/Henri-Claassen) |
+| **👤Michael Brian Cheyne** | [![GitHub](https://img.shields.io/badge/-Michael-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mcyespitlick) |
 
 </div>
 
