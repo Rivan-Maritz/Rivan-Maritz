@@ -4,7 +4,7 @@
 
 **Bachelor of Computing Student · Belgium Campus ITversity · Pretoria, South Africa**
 
-*Building clean, functional software — one commit at a time.*
+*Building clean, functional software - one commit at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rivan-maritz-93755a3ab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:601530@student.belgiumcampus.ac.za)
@@ -45,31 +45,31 @@ Software Engineer Student || Passionate about AI models and designing them from 
 
 ## 📂 Featured Projects
 
-### 🏋️ [WPR281 — Fitness Website](https://github.com/Rivan-Maritz/WPR281)
+### 🏋️ [WPR281 - Fitness Website](https://github.com/Rivan-Maritz/WPR281)
 > A fitness website for Belgium Campus featuring user login and dynamic web design.
 
-`JavaScript` `HTML` `CSS` — *Web Development*
+`JavaScript` `HTML` `CSS` - *Web Development*
 
 ---
 
-### 📋 [PRG281 — Business Management System](https://github.com/Rivan-Maritz/PRG281_Project)
+### 📋 [PRG281 - Business Management System](https://github.com/Rivan-Maritz/PRG281_Project)
 > A console-based sign-in and business management system built with clean OOP principles.
 
-`C#` — *Console Application · Object-Oriented Programming*
+`C#` - *Console Application · Object-Oriented Programming*
 
 ---
 
-### 🗂️ [PRG282 — Data Management System](https://github.com/Rivan-Maritz/PRG282_Project)
+### 🗂️ [PRG282 - Data Management System](https://github.com/Rivan-Maritz/PRG282_Project)
 > A sign-in and management system with data manipulation features and a custom theme.
 
-`C#` — *Console Application · Data Handling*
+`C#` - *Console Application · Data Handling*
 
 ---
 
-### 🎟️ [WPR381 — Events Booking Website](https://github.com/Rivan-Maritz/WPR381_Booking_Website)
+### 🎟️ [WPR381 - Events Booking Website](https://github.com/Rivan-Maritz/WPR381_Booking_Website)
 > A full events booking website designed and built for a booking company.
 
-`CSS` `HTML` `JavaScript` — *Web Development · UI Design*
+`CSS` `HTML` `JavaScript` - *Web Development · UI Design*
 
 ---
 
@@ -93,7 +93,7 @@ These are classmates and developers I've worked alongside on academic and person
 
 ## 📫 Let's Connect
 
-I'm actively looking for opportunities to grow as a developer. If you're hiring, collaborating, or just want to chat tech — reach out!
+I'm actively looking for opportunities to grow as a developer. If you're hiring, collaborating, or just want to chat tech - reach out!
 
 - 💼 **LinkedIn:** [linkedin.com/in/rivan-maritz-93755a3ab](https://linkedin.com/in/rivan-maritz-93755a3ab)
 - 📧 **Email:** 601530@student.belgiumcampus.ac.za
